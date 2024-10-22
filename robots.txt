@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aneingria.github.io/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/app/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/assets/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/css/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/includes/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/item/aneingria.txt.gz
+Sitemap: https://aneingria.github.io/src/aneingria.txt.gz
